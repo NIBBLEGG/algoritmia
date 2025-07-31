@@ -19,7 +19,7 @@ hola amigos! en este post les voy a enseñar 10 razones por las que soy el mejor
 
 la gente suele acercarse a mi a menudo a pedirme fotos, mi gruppies me esperan fuera de mi casa e incluso me han llevado ofrendas y sacrificios pues hay gente que me considera un dios! eso es normal para mi, soy un semidios en la tierra.
 
-![The Analytical Engine](./assets/img/posts/20250709/diosgriegoquecabron.jpg)
+![una estatua mia hecha por mis fans](./assets/img/posts/20250709/diosgriegoquecabron.jpg)
 <small>Una estatua mia hecha por mis fans - 2020</small>
 
 <h3>NÚMERO DOS: SOY EL FAVORITO DE LOS TODOS LOS PROFES</h3>
@@ -34,13 +34,13 @@ mis compañeros me aman en secreto, y no solo mis compañeros, todo mundo, y la 
 Así como lo escuchan, domino a las hembras y tambien a los machos a mi alrededor, impongo respeto como este lobo de la imagen buscando una lobita:
 
 
-![The Analytical Engine](./assets/img/posts/20250709/lobo.jpg)
+![yo](./assets/img/posts/20250709/lobo.jpg)
 <small>soy ese</small>
 
 <h3>NÚMERO CINCO: tengo dos millones de dolares solo en los bolsillos de mis pantalones</h3>
 Así es: facturo tanto dinero que ya no lo puedo contar, mis inversiones en diversas empresas multinivel internacionales y mi pasado como empresario megaexitoso me permiten gastar todos los dias en el futbolito sin preocuparme por mi economia.
 
-![The Analytical Engine](./assets/img/posts/20250709/dinero.jpg)
+![mi dinero](./assets/img/posts/20250709/dinero.jpg)
 <small>Una foto del dinero que acabo de sacar de mi bolsillo</small>
 
 <h3>NÚMERO SEIS: tengo cuerpo de fiscoculturista</h3>
