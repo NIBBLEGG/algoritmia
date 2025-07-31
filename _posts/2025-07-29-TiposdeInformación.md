@@ -27,7 +27,11 @@ Se emplea para <strong>reducir la incertidumbre o acrecentar el contenido</stron
 <h2>información privilegiada:</h2>
 se refiere a la información que solo conoce un grupo de personas y que todavia no se ha hecho pública, lo que se puede deber a que su contenido es de acceso restringido y por eso no se debe compartir o divulgar.
 
-![INE](/assets/img/posts/20250709/ineidentificacion.png)
+#<img src="/algoritmia/assets/img/posts/20250709/ineidentificacion.png" alt="INE">
+#/algoritmia/assets/img/posts/20250709/ineidentificacion.png" alt="INE
+
+#/assets/img/posts/20250709/ineidentificacion.png
+![INE](./assets/img/posts/20250709/ineidentificacion.png)
 <small>Todos los datos personales que permitan identificar la identidad o ubicación de una persona son información privilegiada.</small>
 
 
